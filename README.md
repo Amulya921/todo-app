@@ -6,6 +6,6 @@ A simple and responsive To-Do List web app built using only HTML, CSS, and vanil
 -  Instant UI updates
 -  Clean, mobile-friendly layout
 
--  ![screenshot](todolist1.png)
--  ![screenshot](todolist2.png)
--  ![screenshot](todolist3.png)
+![Screenshot 1](Screenshots/todolist3.png)
+![Screenshot 2](Screenshots/todolist2.png)
+![Screenshot 3](Screenshots/todolist1.png)
